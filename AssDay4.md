@@ -98,7 +98,6 @@ Agile and Waterfall are two widely used methodologies in software development. E
 
 Waterfall Methodology
 
-Overview:
 - Waterfall is a linear and sequential approach to software development.
 - It consists of distinct phases: Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
 - Each phase must be completed before moving on to the next, with little to no overlap.
@@ -133,7 +132,6 @@ Disadvantages:
 
 Agile Methodology
 
-Overview:
 - Agile is an iterative and incremental approach to software development.
 - It consists of small, time-boxed iterations called sprints, typically lasting 1-4 weeks.
 - Emphasizes collaboration, flexibility, and continuous improvement.
